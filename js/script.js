@@ -99,9 +99,9 @@ const typed = new Typed('.multiple-text', {
      loop: true
 });
 const typed2 = new Typed('.multiple-text2', {
-     strings: ['Graphic Designs', 'Social Advertisements','Marketing Advertisements', 'VFX Edits', 'YouTube Contents','Video Edits','Social Media Posts','Music Video Status'], 
-     typeSpeed: 70,
-     backSpeed: 50,
+     strings: ['Graphic Designs','Social Adds','Marketing Adds','VFX Edits','YouTube Contents','Video Edits','Social Media Posts','Music Video'], 
+     typeSpeed: 80,
+     backSpeed: 60,
      backDelay: 1000,
      loop: true
 });
